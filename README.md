@@ -8,8 +8,8 @@
 
 ## About the Dataset
 ## Objective 
-To understand and analyse patterns related to the Profit and Sales Trend and Insights over time by using Data Visualization tool - Power BI ( ), 
-including questions about-
+To understand and analyse patterns related to the Profit and Sales Trend and Insights over time by using Data Visualization tool - Power BI,
+Few questions about-
 *Performance market wise.
 *Segment wise sales and profit.
 *Top and Bottom performing products.
