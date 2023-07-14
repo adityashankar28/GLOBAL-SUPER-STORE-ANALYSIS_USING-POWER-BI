@@ -6,7 +6,6 @@
 
 ### [Link to Interactive Dashboard](https://www.novypro.com/profile_projects/adityashankar)
 
-## About the Dataset
 ## Objective 
 To understand and analyse patterns related to the Profit and Sales Trend and Insights over time by using Data Visualization tool - Power BI,
 Few questions about-
