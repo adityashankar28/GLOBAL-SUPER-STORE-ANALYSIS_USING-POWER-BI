@@ -1,6 +1,6 @@
-# GLOBAL-SUPER-STORE-ANALYSIS (POWER-BI)---Data Analysis and Visualization by using Power BI
+# Global-Super-Store-Analysis (POWER-BI)---Data Analysis and Visualization by using Power BI
 
-### 📊 Data Analysis Project 📈 - by Aditya Shankar [LinkedIn](https://www.linkedin.com/in/aditya-shankar-076152169/) | [Github](https://github.com/adityashankar28) | [Live Dashboard](https://www.novypro.com/profile_projects/adityashankar)
+### 📊 Data Analysis Project 📈 - by Aditya Shankar [LinkedIn](https://www.linkedin.com/in/adityashankar28/) | [Github](https://github.com/adityashankar28) | [Live Dashboard](https://www.novypro.com/profile_projects/adityashankar)
 
 ### [Data Source](https://powerbidocs.com/wp-content/uploads/2021/01/global_superstore_2016.xlsx)
 
@@ -32,4 +32,4 @@ Few questions about-
 
 The end result is a dashboard and few insights which will help managers in taking data driven maangerial decision to increase the company Profit and reduce the time taken to analyse everything manually.
 
-### Feel free to go through the dataset and project, and also connect with me on [Linkedin](https://www.linkedin.com/in/aditya-shankar-076152169/)
+### Feel free to go through the dataset and project, and also connect with me on [Linkedin](https://www.linkedin.com/in/adityashankar28/)
